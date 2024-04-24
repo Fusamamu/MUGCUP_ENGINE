@@ -1,3 +1,6 @@
 [submodule "M_ENGINE_V0.0.1"]
 	path = M_ENGINE_V0.0.1
 	url = https://github.com/Fusamamu/M_ENGINE_V0.0.1.git
+[submodule "M_ENGINE_V0.0.2"]
+	path = M_ENGINE_V0.0.2
+	url = https://github.com/Fusamamu/M_ENGINE_V0.0.2.git
